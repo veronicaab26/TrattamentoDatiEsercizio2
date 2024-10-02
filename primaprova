@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 import healpy 
-import matplotlib 
+import matlablib 
+=======
+import matlablib
+>>>>>>> feature
